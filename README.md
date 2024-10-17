@@ -31,7 +31,7 @@ Follow these steps to clone and run the project locally:
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/your-username/random-password-generator.git
+   https://github.com/mdfaizaanalam/Random-Password-Generator.git
    ```
 2. **Navigate to the project directory**:
    ```bash
