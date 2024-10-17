@@ -6,7 +6,7 @@ Welcome to the **Random Password Generator**, an easy-to-use tool for creating s
 
 ## 🚀 Live Demo
 
-Try the app live on **Vercel**: [Random Password Generator](https://random-password-generator.vercel.app/)
+Try the app live on **Vercel**: [Random Password Generator](https://random-password-generator-six-nu.vercel.app/)
 
 ## ✨ Features
 
